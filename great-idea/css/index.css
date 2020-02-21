@@ -107,3 +107,54 @@ footer {
 	text-align: center;
 	font-size: 15px;
 }
+
+/* service page  */
+
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+#ServiceHead .main-content p {
+	display: flex;
+	font-size: 20px;
+}
+
+#ServiceHead .main-content h3 {
+	font-size: 30px;
+}
+
+/* #info .container div{
+	display: flex;
+	border: 2px solid;
+}
+
+#info .infochild {
+	display: flex;
+	flex-direction: column;
+} */
+
+
+
+#info1 .container div {
+	display: flex;
+	border: 2px solid; 
+	width: 300px;
+}
+
+#info2 .container div {
+	display: flex;
+	border: 2px solid;
+	width: 300px;
+}
+
+#allinfo .container div {
+	display: flex;
+	flex-wrap: wrap:
+}
+
+
+#final .container div {
+	display: flex;
+}
+
