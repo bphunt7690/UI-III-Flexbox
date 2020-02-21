@@ -65,6 +65,11 @@ h1, h2, h3, h4, h5 {
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
+.container {
+	width: 900px;
+	margin: auto;
+}
+
 nav {
 	display: flex;
 	justify-content: space-evenly;
@@ -88,4 +93,23 @@ button {
 	width: 180px;
 	height: 30px;
 	margin: 0 50px;
+}
+
+.top-content {
+	display: flex;
+}
+
+.bottom-content {
+	display: flex;
+}
+
+h4 {
+	display:flex;
+}
+
+
+
+footer {
+	text-align: center;
+	font-size: 15px;
 }
