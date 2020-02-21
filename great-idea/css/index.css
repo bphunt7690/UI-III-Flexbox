@@ -95,19 +95,13 @@ button {
 	margin: 0 50px;
 }
 
-.top-content {
+#top .container {
 	display: flex;
 }
 
-.bottom-content {
+#bottom .container {
 	display: flex;
 }
-
-h4 {
-	display:flex;
-}
-
-
 
 footer {
 	text-align: center;
